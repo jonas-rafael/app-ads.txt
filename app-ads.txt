@@ -1,8 +1,8 @@
 # Appodeal app-ads.txt
 appodeal.com, 501dccb8ec0fdf83c211829f082bc0b68da80b818817985a, DIRECT
 
-# AdMob - SUBSTITUA O 'pub-0000000000000000' PELO SEU ID DO ADMOB
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# AdMob - SUBSTITUA O 'pub-3993503025765940' PELO SEU ID DO ADMOB
+google.com, pub-3993503025765940, DIRECT, f08c47fec0942fa0
 
 # BidMachine
 bidmachine.io, 1, DIRECT
